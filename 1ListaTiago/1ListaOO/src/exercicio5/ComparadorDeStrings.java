@@ -21,7 +21,7 @@ public class ComparadorDeStrings {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Digite a primeira String:");
 		String p1 = scan.next();
-		System.out.println("Digite a primeira String:");
+		System.out.println("Digite a segunda String:");
 		String p2 = scan.next();
 
 		System.out.println();
