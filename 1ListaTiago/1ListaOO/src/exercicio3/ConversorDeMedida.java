@@ -52,7 +52,7 @@ public class ConversorDeMedida {
 	public static void converterDistancia(Medidas m1, Medidas m2) {
 		
 		if (m1.getUnidadeDeDistancia().equals(m2.getUnidadeDeDistancia())) {
-			System.out.println("Não é possível realizar a conversão, os objetos tem a mesma unidade de temperatura");
+			System.out.println("Não é possível realizar a conversão, os objetos tem a mesma unidade de distancia");
 			return;
 		}
 
